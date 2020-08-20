@@ -2,7 +2,8 @@
 title: "Neuroimaging Derived Data"
 ---
 
-Computed data products for neuroscience research
+Computed data products from neuroimaging data.
+General intro, computing.
 
 ---
 ## Functional Imaging Derived from the Human Connectome Project- Young Adult (HCP-YA)
@@ -10,14 +11,16 @@ Computed data products for neuroscience research
 
 [Citation to the paper]
 
-### [All Correlation Matrices](https://something.edu)
-### [Schaefer 100](https://something.edu)
-### Schaefer 200
-### Schaefer 300
-### Schaefer 400
-### Schaefer 500
-### Schaefer 600
-### Schaefer 700
-### Schaefer 800
-### Schaefer 900
+### Correlation Matrices
+Download: [All Matrices](https://something.edu)
 
+[Description of the file structure]
+
+[Examples]
+
+### Parcellated Timeseries
+Downloads: [Schaefer 100](https://something.edu), [Schaefer 200](https://something.edu), [Schaefer 300](https://something.edu), [Schaefer 400](https://something.edu), [Schaefer 500](https://something.edu), [Schaefer 600](https://something.edu), [Schaefer 700](https://something.edu), [Schaefer 800](https://something.edu), [Schaefer 900](https://something.edu)
+
+[Description of the file structure]
+
+[Examples]
